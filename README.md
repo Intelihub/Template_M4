@@ -1,8 +1,4 @@
-# Inteli - Instituto de Tecnologia e Liderança 
-
-<p align="center">
-<a href= "https://www.inteli.edu.br/"><img src="/imagens/logointeli.png" alt="Inteli - Instituto de Tecnologia e Liderança" border="0"></a>
-</p>
+# <a href= "https://www.inteli.edu.br/"><img src="/imagens/logointeli.png" alt="Inteli - Instituto de Tecnologia e Liderança" border="0"></a> Instituto de Tecnologia e Liderança 
 
 # Nome do projeto
 
@@ -19,18 +15,18 @@
 
 ## :teacher: Professores:
 ### Orientador(a) 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 1</a>
+- <a href="https://www.linkedin.com/in/victorbarq/">Nome do professor</a>
 ### Instrutores
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 2</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 3</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 4</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 5</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 6</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 7</a>
+- <a href="https://www.linkedin.com/in/victorbarq/">Nome do professor Programação</a>
+- <a href="https://www.linkedin.com/in/victorbarq/">Nome do professor Matemática</a> 
+- <a href="https://www.linkedin.com/in/victorbarq/">Nome do professor Física</a> 
+- <a href="https://www.linkedin.com/in/victorbarq/">Nome do professor Negócios</a>
+- <a href="https://www.linkedin.com/in/victorbarq/">Nome do professor Design</a> 
+- <a href="https://www.linkedin.com/in/victorbarq/">Nome do professor Liderança</a>
 
 ## 📝 Descrição
 
-Curta descrição sobre o que o seu projeto faz (problema a ser resolvido e solução proposta - máx. 250 palavras - pode conter imagens).
+Curta descrição sobre o que o seu projeto faz (problema a ser resolvido e solução proposta - máx. 250 palavras - deve conter link para vídeo de demonstração - pode conter imagens).
 
 ## 📝 LINKS
 
