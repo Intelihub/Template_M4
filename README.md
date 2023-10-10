@@ -50,7 +50,7 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 Acrescentar as informações necessárias sobre pré-requisitos (IDEs, serviços etc.) e instalação básica do projeto, descrevendo as versões utilizadas.
 
-Posicione aqui um link para o Manual de Instruções. (Sprint 4)
+Posicione aqui um link para o Manual de Instruções. (Link do Template: https://docs.google.com/document/d/1HqNJ_Ex2HnDIw98rVrJIXhpvu9lmujeO/edit) (Sprint 4)
 
 
 ## 🗃 Histórico de lançamentos
