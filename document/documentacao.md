@@ -6,7 +6,7 @@
 
 #### Nomes dos integrantes do grupo
 
-<img src="https://github.com/Intelihub/Template_M4/blob/main/assets/inteli.png">
+<img src="../assets/inteli.png">
 
 ## Sumário
 

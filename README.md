@@ -1,7 +1,7 @@
 # Inteli - Instituto de Tecnologia e Liderança 
 
 <p align="center">
-<a href= "https://www.inteli.edu.br/"><img src="https://github.dev/Intelihub/Template_M4/blob/main/assets/inteli.png" alt="Inteli - Instituto de Tecnologia e Liderança" border="0" width=40% height=40%></a>
+<a href= "https://www.inteli.edu.br/"><img src="assets/inteli.png" alt="Inteli - Instituto de Tecnologia e Liderança" border="0" width=40% height=40%></a>
 </p>
 
 <br>
@@ -10,33 +10,31 @@
 
 ## Grupo
 
-### 🚀 Integrantes
-- <a href=""></a>
-- <a href=""></a>
-- <a href=""></a>
-- <a href=""></a>
-- <a href=""></a>
-- <a href=""></a>
+## :student: Integrantes: 
+- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 1</a>
+- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 2</a>
+- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 3</a> 
+- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 4</a> 
+- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 5</a>
+- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 6</a> 
+- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 7</a>
+
+## :teacher: Professores:
+### Orientador(a) 
+- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 1</a>
+### Instrutores
+- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 2</a>
+- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 3</a> 
+- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 4</a> 
+- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 5</a>
+- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 6</a> 
+- <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 7</a>
 
 ## 📜 Descrição
 
 
 
 ## 📁 Estrutura de pastas
-
-Exemplo de apresentação de estrutura de pastas:
-
-| --> assets<br>
-  &emsp;| --> imagens <br>
-| --> document<br>
-  &emsp;| --> apresentação <br>
-  &emsp;| --> outros <br>
-  &emsp;| documentacao.md<br>
-  &emsp;| manual_de_instrucoes.pdf<br>
-| --> src<br>
-  &emsp;| --> firmware<br>
-  &emsp;| readme.md<br>
-| readme.md<br>
 
 Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
@@ -50,9 +48,9 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 ## 🔧 Instalação
 
-Acrescentar as informações necessárias para instalação do projeto, assim como as versões utilizadas (uso do projeto).
+Acrescentar as informações necessárias sobre pré-requisitos (IDEs, serviços etc.) e instalação básica do projeto, descrevendo as versões utilizadas.
 
-Posicione aqui um link para o Manual de Instruções. 
+Posicione aqui um link para o Manual de Instruções. (Sprint 4)
 
 
 ## 🗃 Histórico de lançamentos
