@@ -68,5 +68,3 @@ Posicione aqui um link para o Manual de Instruções. (Sprint 4)
 
 ## 📋 Licença/License
 
-
-## 🎓 Referências
