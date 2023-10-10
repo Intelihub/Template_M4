@@ -6,9 +6,9 @@
 
 <br>
 
-# Descrição breve do projeto
+# Nome do projeto
 
-## Grupo
+## Nome do grupo
 
 ## :student: Integrantes: 
 - <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 1</a>
