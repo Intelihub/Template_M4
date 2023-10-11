@@ -32,6 +32,9 @@
 
 ## 📜 Descrição
 
+Descreva seu projeto (até 600 palavras)
+
+Inclua um link para o vídeo de demonstração do funcionamento de seu projeto (sprint 5)
 
 
 ## 📁 Estrutura de pastas
