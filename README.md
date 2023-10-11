@@ -10,7 +10,7 @@
 
 ## Nome do grupo
 
-## :student: Integrantes: 
+## 👨‍🎓 Integrantes: 
 - <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 1</a>
 - <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 2</a>
 - <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 3</a> 
@@ -19,7 +19,7 @@
 - <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 6</a> 
 - <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 7</a>
 
-## :teacher: Professores:
+## 👩‍🏫 Professores:
 ### Orientador(a) 
 - <a href="https://www.linkedin.com/in/victorbarq/">Nome do integrante 1</a>
 ### Instrutores
