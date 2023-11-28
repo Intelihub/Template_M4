@@ -204,7 +204,8 @@ _Faça uma tabela dos possíveis componentes utilizados. Todos os componentes de
 
 | **Componente** | **Descrição** | **Tipo** | 
 |----------|----------|----------|
-|exemplo|exemplo|exemplo|
+|E.g. ESP32 WROOM 32 Devkit|E.g. Trata-se de um microcontrolador amplamente usado na indústria e em projetos educacionais, que possui interfaces mais amigáveis para conexão de componentes diversos...|E.g. Microcontrolador|
+|E.g. sensor XPTO|E.g. Este sensor mede o sinal de XYZ em unidades q/s, e possui tolerância de abcd...|E.g. Sensor|
 
 ### 3.3.6. Arquitetura Refinada da Solução (sprint 5)	
 
