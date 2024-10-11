@@ -128,7 +128,7 @@ _Coloque aqui suas Personas:_
 - _Humaniza o público, facilitando decisões centradas no usuário._
 - _Trabalhar na criação de pelo menos uma Persona_
 
-### 3.2.2. Jornadas do Usuário e Storyboard (sprint 1)	
+### 3.2.2. Jornada do Usuário e Storyboard (sprint 2)	
 
 _Coloque aqui seu Mapa de Jornada do Usuário:_
 - _Ferramenta visual da sequência de interações do usuário._
@@ -141,23 +141,6 @@ _Coloque aqui seu Storyboard:_
 - _Enfatiza fluxo, interações e narrativa visual._
 - _Destaca pontos de atrito ou oportunidades na experiência._
 - _Criar ao menos um storyboard._
-
-### 3.2.3. User Stories (sprint 1)	
-
-_Coloque aqui suas User Stories:_
-- _Declarações concisas das necessidades do usuário._
-- _Direciona o desenvolvimento para soluções centradas no usuário._
-- _Usa metodologia INVEST para definição e utilidade._
-- _Trabalhar com no mínimo cinco user stories._
-
-
-### 3.2.4. Protótipo de interface com o usuário (sprint 2)
-
-_Desenvolver protótipos rápidos:_
-- _desenhos esquemáticos da solução IoT, indicando sensores, controles e atuadores do dispositivo, que permitam entendimento das possíveis interações e leituras de estado do sistema;_
-- _wireframe da interface da dashboard (com base nas possibilidades do sistema Ubidots);_
-
-_Os desenhos esquemáticos e wireframe devem ser desenvolvidos em baixa fidelidade. Utilize explicações textuais caso necessário._
 
 ## 3.3. Solução Técnica	
 
