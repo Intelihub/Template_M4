@@ -159,7 +159,7 @@ _Atente-se as regras de negócios. Caso necessário, as aponte nos cenários dos
 
 ### 3.3.2. Requisitos Não Funcionais (sprint 2)	
 
-_Descreva quais são os requisitos não funcionais e sua relação com aspectos de qualidade (visão de aspectos de qualidade). Evolua estes requisitos conforme o desenvolvimento do projeto._
+_Descreva quais são os requisitos não funcionais e sua relação com aspectos de qualidade seguindo a norma ISO25010 (visão de aspectos de qualidade). Evolua estes requisitos conforme o desenvolvimento do projeto._
 
 | **RNF#** | **Descrição** | **Aspecto de qualidade** | 
 |----------|----------|----------|
