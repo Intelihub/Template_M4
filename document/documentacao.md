@@ -148,20 +148,32 @@ _Nesta seção, detalhe a especificação da solução, de acordo com o disposto
 
 ### 3.3.1. Requisitos Funcionais (sprint 1)	
 
-_Descreva quais são os requisitos funcionais e sua relação com as demandas e problemas de negócios (visão de funcionalidades)._
+_Descreva quais são os requisitos funcionais e sua relação com as demandas e problemas de negócios (visão de funcionalidades). Evolua estes requisitos conforme o desenvolvimento do projeto._
 
 _Atente-se as regras de negócios. Caso necessário, as aponte nos cenários dos requisitos funcionais._
 
+| **RF#** | **Descrição** | **Regra de negócio** | 
+|----------|----------|----------|
+|RF01|Ex. O dispositivo deve permitir acionamento por botão liga e desliga|Ex. A solução deve funcionar apenas durante seu uso por operadores|
+|RF02|Preencha aqui seus requisitos|Preencha aqui as regras de negócio relacionadas|
+
 ### 3.3.2. Requisitos Não Funcionais (sprint 2)	
 
-_Descreva quais são os requisitos não funcionais e sua relação com aspectos de qualidade (visão de aspectos de qualidade)._
+_Descreva quais são os requisitos não funcionais e sua relação com aspectos de qualidade (visão de aspectos de qualidade). Evolua estes requisitos conforme o desenvolvimento do projeto._
+
+| **RNF#** | **Descrição** | **Aspecto de qualidade** | 
+|----------|----------|----------|
+|RNF01|Ex. O painel dashboard deve estar disponível 99% do tempo|Ex. Disponibilidade|
+|RNF02|Preencha aqui seus requisitos|Preencha aqui o aspecto de qualidade|
 
 ### 3.3.4. Arquitetura da Solução (sprint 3)
 
-_Coloque aqui o link para seu vídeo:_
+_Vídeo de explicação sobre a arquitetura da solução: (coloque aqui o link do vídeo)_
 
 _Descreva a arquitetura técnica da solução de forma detalhada (visão de arquitetura).
+
 Justifique como a arquitetura suporta os requisitos funcionais e não funcionais.
+
 O diagrama de arquitetura deve:_
 - _Mostrar microcontroladores, incluindo descrições de sua função no sistema (por exemplo: "Irá processar o sinal dos sensores a cada X minutos")_
 - _Mostrar sensores, incluindo descrição de função e especificações técnicas do tipo de informação que será coletada_
@@ -173,9 +185,10 @@ O diagrama de arquitetura deve:_
 
 ### 3.3.5. Arquitetura do Protótipo(sprint 4)	
 
-_Coloque aqui o link para seu vídeo:_
+_Vídeo de explicação sobre a arquitetura do protótipo físico: (coloque aqui o link do vídeo)_
 
 _Descreva as tecnologias utilizadas de forma detalhada (visão de tecnologia).
+
 Descreva a arquitetura usando um diagrama de blocos similar à visão anterior, porém especificando as tecnologias utilizadas. O diagrama de arquitetura deve:_
 - _Mostrar microcontroladores, incluindo descrições de sua função no sistema (por exemplo: "Irá processar o sinal dos sensores a cada X minutos")_
 - _Mostrar sensores, incluindo descrição de função e especificações técnicas do tipo de informação que será coletada_
@@ -193,7 +206,9 @@ _Faça uma tabela dos possíveis componentes utilizados. Todos os componentes de
 ### 3.3.6. Arquitetura Refinada da Solução (sprint 5)	
 
 _Descreva a revisão da arquitetura técnica da solução de forma detalhada (visão de arquitetura). <br>
+
 Justifique como a arquitetura suporta os requisitos funcionais e não funcionais. <br>
+
 A revisão deverá incluir comentários sobre cada ponto levantado, mostrando como os ajustes foram realizados, além da descrição da arquitetura revisada._
 
 
@@ -229,26 +244,21 @@ Siga as nomenclaturas e convenções já utilizadas anteriormente, e não se esq
 **#** | **Configuração do ambiente** | **Ação do usuário** | **Resposta esperada do sistema** 
 |----------|----------|----------|----------|
 |01|ex. precisa de um computador conectado na interface, dois ou mais dispositivos que simulem o posicionamento de um item X no espaço físico etc. | ex. usuário logado busca a localização do item X, que está ativo e operando normalmente | ex. interface do sistema acessa os dados da última localização registrada do item X e apresenta, constando local e horário de última atualização | 
+
 ### 3.4.4. Protótipo Físico do Projeto (online) (sprint 4)	
 
 _Aqui você deve registrar diversas situações de uso de seu sistema como um todo, indicando exemplos de ação do usuário e resposta do sistema, apontando como o ambiente deverá estar configurado para receber a ação e produzir a resposta. Estes registros serão utilizados para testar seu sistema, portanto, descreva várias situações, incluindo não apenas casos de sucesso, mas também de falha nos comportamentos do sistema. <br>
 **Desta vez, utilize diagramas de sequência UML para descrever os fluxos de teste do sistema.** <br>
 Siga as nomenclaturas e convenções já utilizadas anteriormente, e não se esqueça dos alinhamentos de negócios e experiência do usuário para pensar em situações representativas. Inclua figuras do protótipo físico e dashboards, além de descrições dos testes realizados para ilustrar o funcionamento do protótipo._
 
-
 ### 3.4.5. Protótipo Final do Projeto (sprint 5)	
 
 _Registre as situações de uso do sistema revisadas utilizando a modelagem UML para descrever os fluxos de teste. <br>
 Também inclua figuras da versão final do protótipo físico e dashboards, além de descrições dos testes realizados para ilustrar o funcionamento do protótipo._
 
-
-## <a name="c4"></a>4. Possibilidades de Descarte (sprint 4)
-
-_Construam um documento descrevendo os materiais utilizados no MVP, o método de descarte  (em formato de orientações práticas) e a vida útil desses materiais (o momento em que esses materiais deveriam ser descartados), tendo atenção aos riscos  de descarte incorreto._
-
 ## <a name="c5"></a>5. Conclusões e Recomendações
 
-_Escreva, de forma resumida, sobre os principais resultados do seu projeto e faça recomendações formais ao seu parceiro de negócios em relação ao uso dessa solução. Você pode aproveitar este espaço para comentar sobre possíveis materiais extras._
+_Escreva, de forma resumida, sobre os principais resultados do seu projeto e faça recomendações formais ao seu parceiro de projeto em relação ao uso dessa solução. Você pode aproveitar este espaço para comentar sobre possíveis materiais extras._
 
 ## <a name="c6"></a>6. Referências
 
