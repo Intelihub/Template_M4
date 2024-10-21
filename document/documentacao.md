@@ -16,11 +16,9 @@
 
 [3. Desenvolvimento e Resultados](#c3)
 
-[4. Possibilidades de Descarte](#c4)
+[4. Conclusões e Recomendações](#c4)
 
-[5. Conclusões e Recomendações](#c5)
-
-[6. Referências](#c6)
+[5. Referências](#c5)
 
 <br>
 
@@ -256,11 +254,11 @@ Siga as nomenclaturas e convenções já utilizadas anteriormente, e não se esq
 _Registre as situações de uso do sistema revisadas utilizando a modelagem UML para descrever os fluxos de teste. <br>
 Também inclua figuras da versão final do protótipo físico e dashboards, além de descrições dos testes realizados para ilustrar o funcionamento do protótipo._
 
-## <a name="c5"></a>5. Conclusões e Recomendações
+## <a name="c4"></a>4. Conclusões e Recomendações
 
 _Escreva, de forma resumida, sobre os principais resultados do seu projeto e faça recomendações formais ao seu parceiro de projeto em relação ao uso dessa solução. Você pode aproveitar este espaço para comentar sobre possíveis materiais extras._
 
-## <a name="c6"></a>6. Referências
+## <a name="c5"></a>5. Referências
 
 _Incluir as principais referências de seu projeto, para que seu parceiro possa consultar caso ele se interessar em aprofundar. Um exemplo de referência de livro e de site: <br>
 LUCK, Heloisa. Liderança em gestão escolar. 4. ed. Petrópolis: Vozes, 2010. <br>
