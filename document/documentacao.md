@@ -164,7 +164,7 @@ _Descreva quais são os requisitos não funcionais e sua relação com aspectos 
 |RNF01|Ex. O painel dashboard deve estar disponível 99% do tempo|Ex. Disponibilidade|
 |RNF02|Preencha aqui seus requisitos|Preencha aqui o aspecto de qualidade|
 
-### 3.3.4. Arquitetura da Solução (sprint 3)
+### 3.3.3. Arquitetura da Solução (sprint 3)
 
 _Vídeo de explicação sobre a arquitetura da solução: (coloque aqui o link do vídeo)_
 
@@ -181,7 +181,7 @@ O diagrama de arquitetura deve:_
 - _Mostrar ligações entre os elementos (com fio ou sem fio) – incluindo conexões com sensores e atuadores, conexão com WiFi, entre outros_
 
 
-### 3.3.5. Arquitetura do Protótipo(sprint 4)	
+### 3.3.4. Arquitetura do Protótipo(sprint 4)	
 
 _Vídeo de explicação sobre a arquitetura do protótipo físico: (coloque aqui o link do vídeo)_
 
@@ -201,7 +201,7 @@ _Faça uma tabela dos possíveis componentes utilizados. Todos os componentes de
 |E.g. ESP32 WROOM 32 Devkit|E.g. Trata-se de um microcontrolador amplamente usado na indústria e em projetos educacionais, que possui interfaces mais amigáveis para conexão de componentes diversos...|E.g. Microcontrolador|
 |E.g. sensor XPTO|E.g. Este sensor mede o sinal de XYZ em unidades q/s, e possui tolerância de abcd...|E.g. Sensor|
 
-### 3.3.6. Arquitetura Refinada da Solução (sprint 5)	
+### 3.3.5. Arquitetura Refinada da Solução (sprint 5)	
 
 _Descreva a revisão da arquitetura técnica da solução de forma detalhada (visão de arquitetura). <br>
 
